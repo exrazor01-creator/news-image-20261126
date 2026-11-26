@@ -1,6 +1,8 @@
 # news-image-20261126 — The World Today
 
 [![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/exrazor01-creator/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/exrazor01-creator/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 Sum up 26 November's world news in one image: a newspaper front page drawn
 entirely in code (pure Python standard library, no images, no network) for
